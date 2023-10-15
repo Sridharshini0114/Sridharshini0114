@@ -7,9 +7,9 @@
 
 - 🤝 Currently doing a project **Microservice Project,Face recognition using attendance system**
 
-- 👨‍💻 All of my projects are available at [https://https://github.com/Sridharshini0114](https://https://github.com/Sridharshini0114)
+- 👨‍💻 All of my projects are available at [https://https://github.com/Sridharshini0114]
 
-- 📝 My Motivation Quotes is [Aspire to Inspire](Aspire to Inspire)
+- 📝 My Motivation Quotes is [Aspire to Inspire]
 
 - 💬 Ask me about a Learning tech **Java(core)**
 
